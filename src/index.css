@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0.25rem;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #333;
+  color: white;
+  display: grid;
+  place-content: center;
+  font-style: 150%;
+}
+
+button {
+  font-style: 2rem;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.gold {
+  color: gold;
+}
